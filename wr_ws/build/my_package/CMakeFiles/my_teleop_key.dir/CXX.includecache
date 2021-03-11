@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/my_package/src/my_teleop_key.cpp
+cstdio
+-
+
