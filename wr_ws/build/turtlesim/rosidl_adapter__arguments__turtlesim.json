@@ -1,0 +1,13 @@
+{
+  "package_name": "turtlesim",
+  "non_idl_tuples": [
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:action/RotateAbsolute.action",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:msg/Color.msg",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:msg/Pose.msg",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:srv/Kill.srv",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:srv/SetPen.srv",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:srv/Spawn.srv",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:srv/TeleportAbsolute.srv",
+    "/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/src/ros_tutorials/turtlesim:srv/TeleportRelative.srv"
+  ]
+}

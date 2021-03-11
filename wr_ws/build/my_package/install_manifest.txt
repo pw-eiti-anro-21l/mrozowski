@@ -1,0 +1,16 @@
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/lib/my_package/my_teleop_key
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/environment/path.sh
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/environment/path.dsv
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/local_setup.bash
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/local_setup.sh
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/local_setup.zsh
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/local_setup.dsv
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/package.dsv
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+/home/mro/Documents/pwEiTI/ANRO/git/mrozowski/wr_ws/install/my_package/share/my_package/package.xml
